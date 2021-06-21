@@ -74,6 +74,11 @@ Backend |  Python, Django web framework,  Bcrypt, My SQL
 
 Common | Restful API, KAKAO post API, AWS(EC2,RDS)
 
+### 💻 내가 구현한 기능
+
+로그인 : JWT와 로컬스토리지를 사용한 로그인 기능 구현
+로그인데코레이터 : 외부에 api  제공을 위한 로그인 데코레이터 기능  구현
+
 ### 👍 커뮤니케이션
 
 **저희 오져스마켓 팀은 팀원간의 원활한 커뮤니케이션을위해 다양한 수단을 사용했습니다.**
